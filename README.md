@@ -1,16 +1,9 @@
 # Tarea 1 - Mobile Apps
 
-A new Flutter project.
+Conociendo los Scaffold y widgets mas comunes
 
-## Getting Started
+## Instrucciones
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cada que se hace clic a un botón este cambia de color entre black e índigo.
+Por ejemplo, si el usuario hace clic en el boton de timer, este se hace de color indigo 
+y si el usuario hace clic nuevamente el boton regresa a ser color negro).
